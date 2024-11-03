@@ -19,6 +19,7 @@ For a comprehensive understanding of the project, refer to the [full project rep
 
 To run this simulation, ensure you have:
 - **Python 3.10+** installed on your device. You can download Python [here](https://www.python.org/downloads/).
+Then [download the repository as a ZIP file](https://github.com/BestPlayerMMIII/BB84/archive/refs/heads/main.zip).
 
 ### Running the Simulation
 
